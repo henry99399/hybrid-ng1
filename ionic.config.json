@@ -1,0 +1,8 @@
+{
+  "name": "newionic",
+  "app_id": "f0cd117c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
